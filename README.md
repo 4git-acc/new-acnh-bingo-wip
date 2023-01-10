@@ -35,4 +35,5 @@ v1 (original `/master` branch) built in a day.
 Fonts: [Fink Heavy](https://www.fontsmarket.com/font-download/fink-heavy), [Klepon-Ijo](https://www.dafont.com/klepon-ijo)
 
 APIs: [ACNH API](http://acnhapi.com/)
+
 Original Creator: [t0ri](https://github.com/t0ri/acnh-bingo)
